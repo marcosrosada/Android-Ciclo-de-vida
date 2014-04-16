@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ciclo De Vida</string>
+    <string name="lbCicloDeVida">Ciclo de vida da App</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
